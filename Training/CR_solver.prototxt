@@ -1,0 +1,27 @@
+# The train/test net protocol buffer definition
+net: "examples/Cloud_Removal/CR_Mask_Loss.prototxt"
+
+# Carry out testing every 500 training iterations.
+
+# The base learning rate, momentum and the weight decay of the network.
+type: "Adam"
+base_lr: 0.01
+momentum: 0.9
+momentum2: 0.999
+delta: 1e-8
+clip_gradients: 0.01
+weight_decay: 0
+# The learning rate policy
+lr_policy: "step"
+gamma: 0.5
+stepsize: 20000
+# Display every 1 iterations
+display: 1000
+# The maximum number of iterations
+max_iter: 2000000
+# snapshot intermediate results
+snapshot: 50000
+snapshot_prefix: "examples/Cloud_Removal/Model/CR_Loss"
+# solver mode: CPU or GPU
+solver_mode: GPU
+
