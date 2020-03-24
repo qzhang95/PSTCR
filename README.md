@@ -11,6 +11,20 @@ Cloud and Shadow Removal Results for Multi-temporal Sequence Sentinel-2 MSI data
 <img src="Results.png" width="1217px"/>
 
 
+Citation
+----------
+```
+      @ARTICLE{zhang2020,
+      author={Q. {Zhang} and Q. {Yuan} and J. {Li} and Z. {Li} and H. {Shen} and L. {Zhang}}, 
+      journal={ISPRS Journal of Photogrammetry and Remote Sensing}, 
+      title={Thick cloud and cloud shadow removal in multitemporal images using progressively spatio-temporal patch group deep learning}, 
+      year={2020}, 
+      volume={162},  
+      pages={148-160},  
+      month={Apr.},}
+```
+
+
 ---------------   
 
 Qiang Zhang,
