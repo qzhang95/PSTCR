@@ -12,8 +12,10 @@ Cloud and Shadow Removal Results for Multi-temporal Sequence Sentinel-2 MSI data
 
 # Dataset Download
 Multi-Temporal Sentinel-2 Full-Width Cloud Detection and Removal Dataset: 
+
 **Link**: [Google Drive](https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing)
-**Note**: If you use our source code or dataset, please cite our papers.
+
+**Note**: If you use our source code or dataset, please cite our paper.
 
 # Citation
 ----------
