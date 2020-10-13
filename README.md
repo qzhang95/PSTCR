@@ -10,8 +10,12 @@ Q. Zhang, Q. Yuan, J. Li, Z. Li, H. Shen, and L. Zhang, "__Thick cloud and cloud
 Cloud and Shadow Removal Results for Multi-temporal Sequence Sentinel-2 MSI data: (**Full Width, 20m-Resolution**)
 <img src="Results.png" width="1217px"/>
 
+# Dataset Download
+Multi-Temporal Sentinel-2 Full-Width Cloud Detection and Removal Dataset: 
+**Link**: [Google Drive](https://drive.google.com/file/d/1LlvUKtUWAKoF6R0igbREwvP2Wfja9UBv/view?usp=sharing)
+**Note**: If you use our source code or dataset, please cite our papers.
 
-Citation
+# Citation
 ----------
 ```
       @ARTICLE{zhang2020,
@@ -27,10 +31,11 @@ Citation
 
 ---------------   
 
-Qiang Zhang,
+# Contact Information
+If you have any query for this work, please directly contact me.
 
-Wuhan University.
+Author: Qiang Zhang, Wuhan Unviversity.
 
 E-mail: whuqzhang@gmail.com
 
-Homepage: https://qzhang95.github.io/
+Homepage: [qzhang95.github.io](https://qzhang95.github.io/)
